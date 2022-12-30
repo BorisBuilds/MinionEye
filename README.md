@@ -7,6 +7,9 @@ You see stuff that is big, yellow and looks like a minion? Like a trash bin, a c
 
 **This project shows you how to make a begoggled single-eye from a giant googly eye and a 3D printer.**
 
+Credits: The 3D Model is based on a cool Design by MVSValero
+https://cults3d.com/en/3d-model/fashion/minions-goggle-monoeye
+
 ## What you need
 
  - Giant 7" (18cm) non-stiky googly eyes (I got them from Amazon) 
