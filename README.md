@@ -33,7 +33,7 @@ https://cults3d.com/en/3d-model/fashion/minions-goggle-monoeye
  - Voila! A real minion eye- Bee-do bee-do bee-do!
 
 ## Names
-Your new object needs a name. Please note that the Minion Dave has two eyes. The two famous ones are Stuart, Carl and Lance. The bee-do bee-do guy is Carl.
+Your new object needs a name. Please note that the Minion Dave has two eyes. The famous ones with one eye are Stuart, Carl and Lance. The bee-do bee-do guy is Carl.
 
 ## Copyrights
 This fan-art is licensed unter Creative Commons Zero (CC0).
